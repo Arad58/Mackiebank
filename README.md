@@ -1,2 +1,2 @@
 # Mackiebank
- This is the project for WDSS and SE
+This is the project for WDSS and SE
