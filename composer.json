@@ -1,0 +1,10 @@
+{
+  "name": "teamarad/mackiebank",
+  "description": "Our project is about a digital bank",
+  "license": "Apache-2.0",
+  "require": {
+    "monolog/monolog": "^2.0",
+    "symfony/console": "^5.0",
+    "ext-pdo": "*"
+  }
+}
